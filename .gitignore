@@ -1,5 +1,16 @@
+# виртуальное окружение
 .venv/
+venv/
+
+# файлы среды
+.env
+
+# база данных локальная
+cinema.db
+*.sqlite3
+
+# служебное
 __pycache__/
 *.pyc
-.env
-*.log
+.idea/
+.vscode/
